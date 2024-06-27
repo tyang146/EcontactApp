@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains a modern and intuitive contact management application designed to help users efficiently organize, manage, and access their contacts.
-The app stores contact information such as first name, last name, phone number, address and gender.
+It stores contact information such as first name, last name, phone number, address and gender.
 
 ## Technologies Used
 - C# 
