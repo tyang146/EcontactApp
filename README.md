@@ -1,3 +1,3 @@
 # EcontactApp
 
-learning of c# and winform 
+Designed and built a contact information, windows application using C#, Windows Forms and SQL Server
