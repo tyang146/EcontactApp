@@ -5,9 +5,8 @@ This repository contains a modern and intuitive contact management application d
 It stores contact information such as first name, last name, phone number, address and gender.
 
 ## Technologies Used
-- Programming Language
+- Frontend
   - C#
-- Framework
   - Windows Forms
 - Database
   - SQL Server
