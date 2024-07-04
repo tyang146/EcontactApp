@@ -1,7 +1,7 @@
 # EcontactApp
 
 ## Overview
-This repository contains a modern and intuitive contact management application designed to help users efficiently organize, manage, and access their contacts.
+This repository contains a contact management application designed to help users efficiently organize, manage, and access their contacts.
 It stores contact information such as first name, last name, phone number, address and gender.
 
 ## Photos
